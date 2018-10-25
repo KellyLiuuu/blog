@@ -125,6 +125,8 @@ h1 {
 .left_eyes {
 	transform: rotate(-13deg);
 }
-
+.rose{
+	size: 100px,100px;
+}
 
 
